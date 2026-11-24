@@ -51,7 +51,7 @@ HOSTS = [
 INTERVALO_SEGUNDOS = 10  # cada cuánto revisa
 LOG_FILE = "monitor_red.log"
 ```
-![Grupo de seguridad]()
+![Grupo de seguridad](log.png)
 
 ## 👤 Autor
 Bryan Carreño Hidalgo — Egresado Ingeniería en Informática, INACAP La Granja
